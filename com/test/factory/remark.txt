@@ -1,0 +1,6 @@
+1.JDK中的Calendar的getInstance方法。
+2.JDBC中的Connection对象获取方法。
+3.Hibernate中的SessionFactory创建Session。
+4.Spring中IOC容器创建管理bean对象。
+5.XML解析时的DocumentBuilderFactory创建解析器对象。
+6.反射中Class对象的newInstanc()。

@@ -1,0 +1,2 @@
+Spring框架中，Resource接口资源访问策略
+javax.servlet.http.HttpServlet#service()
